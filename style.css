@@ -2,8 +2,18 @@ body {
   background: #f0f0f0;
   color: #333333;
   font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
 }
 
 a {
   color: #3080f0;
+}
+
+header {
+  background: #ffffff;
+  padding: 2em;
+}
+
+main {
+  padding: 2em;
 }
