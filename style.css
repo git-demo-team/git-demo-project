@@ -21,3 +21,9 @@ main {
 h4 {
 	color: Brown;
 }
+
+@media (max-width: 400px) {
+  h1 {
+    font-size: 1.4em;
+  }
+}
